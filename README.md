@@ -19,5 +19,6 @@ for example `pip install flask`
 
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/71749153/131258742-658d4727-b543-42ce-8411-682d276faf09.png)
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
