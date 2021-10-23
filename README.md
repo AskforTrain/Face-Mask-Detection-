@@ -17,14 +17,6 @@ Face detection is a computer technology being used in a variety of applications 
 # Downloads Essential Libraries 
 for example `pip install flask` 
 
-<object width="425" height="350">
-  <param name="movie" value="https://youtu.be/qPp-jwO2Z1M" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/channel/UCx4o0mGSyBHIzsQMG3zHj7Q/videos"
-         type="Face Mask Detection"
-         wmode="transparent" width="425" height="350" />
-</object>
-
 ![Screenshot (29)](https://user-images.githubusercontent.com/71749153/131258742-658d4727-b543-42ce-8411-682d276faf09.png)
 
 Thanks goes to these wonderful people:
@@ -41,3 +33,10 @@ Thanks goes to these wonderful people:
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/qPp-jwO2Z1M" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/channel/UCx4o0mGSyBHIzsQMG3zHj7Q/videos"
+         type="Face Mask Detection"
+         wmode="transparent" width="425" height="350" />
+</object>
