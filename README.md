@@ -13,6 +13,7 @@ Face detection is a computer technology being used in a variety of applications 
 * scikit-learn
 * tensorflow
 * opencv-python
+* python
 
 # Downloads Essential Libraries 
 for example `pip install flask` 
